@@ -12,7 +12,7 @@ Requirements:
 
     Python 2.7 with the following modules
 
-    1) win32 module (http://starship.python.net/mwg-internal/de5fs23hu73ds/progress?id=2ovAo1bSdx)
+    1) win32 module (https://sourceforge.net/projects/pywin32/files/pywin32/Build%20221/pywin32-221.win32-py2.7.exe/download)
 
     2) wmi module: (http://timgolden.me.uk/python/wmi/index.html)
 
